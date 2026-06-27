@@ -1,0 +1,1 @@
+export const arr = [{Id:1,name:"mythili",age:19},{Id:2,name:"manya",age:19},{Id:3,name:"kavya",age:19}]
